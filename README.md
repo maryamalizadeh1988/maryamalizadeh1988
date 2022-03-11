@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maryamalizadeh1988
+- 👋 Hi, I’m Maryam Alizadeh
 - 👀 I’m interested in developing website template
 - 🌱 I’m currently learning JavaScript and React
 - 📫 maryamalizadeh.1988@yahoo.com
